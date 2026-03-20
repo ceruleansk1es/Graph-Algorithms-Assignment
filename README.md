@@ -1,4 +1,11 @@
 # Graph Algorithms
+
+[*Note: look for TODOs in files as described below to see modified/created code]
+
+[*Note 2: Application of Graph Algorithms to potential SUPER project - The graph data structure can be applied here as a representation of a sensor network, and these graph algorithms can be implemented for such a network, where understanding how the sensors are related can help detect faulty readings, identify clusters of similar data, and improve overall data quality.]
+
+------ back to assignment README
+
 In this assignment, the Graph data structure is provided. We also provide many helper functions. The only four functions you have to write are:
 
 - Topological Sort
